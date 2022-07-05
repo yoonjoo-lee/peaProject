@@ -8,7 +8,6 @@
 </head>
 <body>
 <h1>
-	Hello world! 수정해봤음. 범준 
 </h1>
 완두콩 수정수정2222
 <P>  The time on the server is ${serverTime}. </P>
